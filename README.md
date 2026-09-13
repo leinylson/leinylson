@@ -127,22 +127,6 @@ e computação aplicada
 
 ## 🚀 Projetos em destaque
 
-<p align="center">
-
-<a href="https://github.com/leinylson/leinylson.github.io">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=leinylson&repo=leinylson.github.io&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF"
-  />
-</a>
-
-<a href="https://github.com/leinylson">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=leinylson&repo=leinylson&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF"
-  />
-</a>
-
-</p>
-
 <table>
 <tr>
 
