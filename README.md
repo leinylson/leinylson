@@ -329,28 +329,6 @@ Computacional**
 
 ---
 
-# 🧩 Atualmente explorando
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🎓 Educação & Tecnologia                                   │
-│                                                             │
-│  💻 Desenvolvimento de Software                             │
-│                                                             │
-│  🤖 Inteligência Artificial                                 │
-│                                                             │
-│  👁️ Visão Computacional                                    │
-│                                                             │
-│  🧠 Metodologias Ativas                                    │
-│                                                             │
-│  🧪 Computação Aplicada à Pesquisa                          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
 # 🌐 Conecte-se comigo
 
 <p align="center">
